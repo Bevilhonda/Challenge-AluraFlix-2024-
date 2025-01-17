@@ -53,9 +53,9 @@ As aulas foram dinâmicas, intuitivas e recheadas de exemplos práticos, além d
 </h1>
 
 ---
-
-## 🔺 Tecnologias Usadas 🎯
-
+<h2 align="center">
+ 🔺 Tecnologias Usadas 🎯
+</h2>
 <p align="center">
   🔹 <strong>HTML</strong><br>
   🔹 <strong>CSS</strong><br>
