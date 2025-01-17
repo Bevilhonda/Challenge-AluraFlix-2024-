@@ -12,7 +12,7 @@ const Header = ()=> {
                     <img className='header__imagen' src={LogoMenu} alt="Logo AluraFlix" />
                 </Link>
                 <nav className='header__nav header__btn'>
-                    <ButtonLink to='/nuevovideo'
+                    <ButtonLink to='/novovideo'
                         titulo='Novo Video'
                     />
                 </nav>
