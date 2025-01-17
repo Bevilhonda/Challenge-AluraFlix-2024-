@@ -18,8 +18,8 @@ function App() {
         <Header />
         <Routes>
           <Route path='/' element={ <Home /> } />
-          <Route path='/nuevovideo' element={ <NovoVideo /> }/>
-          <Route path='/nuevacategoria' element={ <NovaCategoria /> }/>
+          <Route path='/novovideo' element={ <NovoVideo /> }/>
+          <Route path='/novacategoria' element={ <NovaCategoria /> }/>
           <Route path='*' element={ <Page404/> } />
         </Routes>
         <Footer/>
