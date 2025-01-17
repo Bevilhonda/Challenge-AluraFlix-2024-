@@ -5,7 +5,7 @@
 
 <p>Através da inscrição para a seleção de candidatos no site  <a href = "https://www.oracle.com/br/education/oracle-next-education/"></a> , fui selecionado e presenteado com uma bolsa para este curso oferecido entre uma parceria da Oracle Next Educadion e Alura, O ONE é um programa de educação e empregabilidade com objetivo social de capacitar pessoas em tecnologia e conectá-las com o mercado de trabalho por meio de empresas parceiras.</p>
 
-<br> <img src="img/Oracle.png" alt="imagem ONE oracle"> <br>
+<br> <img src="/public/assets/img/Oracle.png" alt="imagem ONE oracle"> <br>
 
 <p align="center"> 📜  Projeto # Challenge ONE React - Aluraflix </a> 📜 </P>
 
