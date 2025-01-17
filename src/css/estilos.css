@@ -66,7 +66,7 @@ img {
     
 }
 
-.apresentacao__contenido{
+.apresentacao__conteudo{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -156,10 +156,10 @@ img {
         justify-content: flex-start;
         margin-top: 20px;
     }
-    .categorias__nombre{
+    .categorias__nome{
         font-size: 16px;
     }
-    .categorias__descripcion{
+    .categorias__descricao{
         font-size: 16px;
     }
     .categorias__listavideos{
@@ -245,7 +245,7 @@ footer{
     
 }
 
-.footer__parrafo{
+.footer__paragrafo{
     color: #F5F5F5;
     margin-top: 10px;
 }
@@ -276,7 +276,7 @@ footer{
     .footer__btn{
         display: initial;
     }
-    .footer__parrafo{
+    .footer__paragrafo{
         display: none;
     }
 }
@@ -293,7 +293,7 @@ footer{
     justify-content: center;
 }
 
-.error__mensaje{
+.error__mensagem{
     border: 4px solid #2A7Ae4;
     padding: 30px;
     text-align: center;

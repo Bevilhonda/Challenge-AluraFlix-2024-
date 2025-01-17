@@ -71,7 +71,7 @@ const NovaCategoria = () =>{
         
     }
 
-    const manejarEditar = (id, nombre, descripcion, color) => {
+    const Editar = (id, nombre, descripcion, color) => {
         
         
         window.scrollTo({ top: 0, behavior: "smooth" });
@@ -140,7 +140,7 @@ const NovaCategoria = () =>{
 
                         <div className="botao">
                             <ButtonForm tipo='submit' titulo='Salvar' styles={EstilosBtnGuardar}/>
-                            <ButtonForm tipo='reset' titulo='Limpar' styles={EstilosBtnExcluir} manejarClic={()=>atualizarExcluir()}/>
+                            <ButtonForm tipo='reset' titulo='Limpar' styles={EstilosBtnExcluir} Clic={()=>atualizarExcluir()}/>
                         </div>
 
                     </form>
@@ -149,7 +149,7 @@ const NovaCategoria = () =>{
                         videos={videos}
                         categorias={categorias}
                         setSolicitarDatos={()=>setSolicitarDados(true)}
-                        manejarEditar={manejarEditar}
+                        manejarEditar={Editar}
                     />
 
                 </div>

@@ -17,7 +17,7 @@ const CampoCor = ({titulo, required, error, valor, actualizarValor: atualizarVal
             onChange={atualizarCampo}
         />
         </div>
-            <span className="form__mensaje">{error}</span>
+            <span className="form__mensagem">{error}</span>
         </div>
    )
 }

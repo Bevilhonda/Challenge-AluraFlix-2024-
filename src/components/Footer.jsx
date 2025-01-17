@@ -27,7 +27,7 @@ const Footer = () => {
             </div>
 
             <img className='footer__logo' src={LogoAluraFlix} alt="Logo AluraFlix" />
-            <p className='footer__parrafo'>
+            <p className='footer__paragrafo'>
                 
                 <Link to='https://www.linkedin.com/in/marcelo-bevilacqua-de-andrade-443097235/'
                     target='_blank'>
