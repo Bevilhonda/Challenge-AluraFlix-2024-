@@ -74,7 +74,7 @@ As aulas foram dinâmicas, intuitivas e recheadas de exemplos práticos, além d
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  
+
 </p>
 
 ---
@@ -101,5 +101,5 @@ As aulas foram dinâmicas, intuitivas e recheadas de exemplos práticos, além d
 <h2 align="center">💡 Gostou do projeto? Entre em contato ou confira outros trabalhos!</h2>
 <p align="center">
   
-  🌐 [Meu LinkedIn](https://linkedin.com/in/marcelo-bevilacqua)
+  🌐 [Meu LinkedIn](https://www.linkedin.com/in/marcelo-bevilacqua-de-andrade-443097235/)
 </p>
