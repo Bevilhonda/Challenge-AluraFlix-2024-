@@ -56,6 +56,7 @@ As aulas foram dinâmicas, intuitivas e recheadas de exemplos práticos, além d
 <h2 align="center">
  🔺 Tecnologias Usadas 🎯
 </h2>
+
 <p align="center">
   🔹 <strong>HTML</strong><br>
   🔹 <strong>CSS</strong><br>
@@ -66,12 +67,14 @@ As aulas foram dinâmicas, intuitivas e recheadas de exemplos práticos, além d
 </p>
 
 <p align="center">
+
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  
 </p>
 
 ---
