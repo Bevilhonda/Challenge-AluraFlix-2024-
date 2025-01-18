@@ -24,7 +24,7 @@ O ONE é um programa de educação e empregabilidade com objetivo social de capa
 Para esta jornada, tivemos uma equipe de peso ministrando as aulas, que foram eles:
 
 <p align="center">
-  <img src="/public/assets/img/equipe.png" alt="Equipe Fase 3" width="300">
+  <img src="/public/assets/img/equipe.png" alt="Equipe Fase 3" width="600">
 </p>
 
 👋 Sejam bem-vindos ao meu projeto! Aqui você conhecerá mais sobre o:
